@@ -9,6 +9,8 @@
 4. [Web Scraping text data using Selenium](https://github.com/vermasrijan/Crawl-Scrape_using_selenium_Python)<br/>
 
 5. [Google Translate API usecase](https://github.com/vermasrijan/Google_Translate_API_Python)<br/>
+<img align="right" width="600" height="600" src="https://cdn-images-1.medium.com/max/1260/1*hBRy3vFXJlezkIs0Ws2YMQ.gif">
 
 
-![](https://cdn-images-1.medium.com/max/1260/1*hBRy3vFXJlezkIs0Ws2YMQ.gif)<br/>
+
+
