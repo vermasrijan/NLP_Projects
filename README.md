@@ -12,7 +12,8 @@
 
 ![](https://cdn-images-1.medium.com/max/1260/1*hBRy3vFXJlezkIs0Ws2YMQ.gif)
 
-
+## Acknowledgements
+A big Thank you to the whole team of [Messy Fractals](https://messyfractals.wordpress.com/), especially [Dhanya P](https://www.linkedin.com/in/dhanyap/?originalSubdomain=in) and [Arvind Sivdas](https://www.linkedin.com/in/arvindsivdas/?originalSubdomain=in) for letting me work under them and helping me get started with NLP !
 
 
 
